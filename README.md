@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 &nbsp; ![Visitor Count](https://profile-counter.glitch.me/{Raghav888}/count.svg)
 
 <img align="right" alt="PC GIF" src="https://tenor.com/view/man-technologist-people-joypixels-laptop-technician-gif-17478945" width="190" />
+<div class="tenor-gif-embed" data-postid="17478945" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/man-technologist-people-joypixels-laptop-technician-gif-17478945">Man Technologist People Sticker</a>from <a href="https://tenor.com/search/man+technologist-stickers">Man Technologist Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
