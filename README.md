@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Raghav Bang&nbsp;<img src="https://tenor.com/view/sybo-games-sybo-yutani-imessage-animated-stickers-gif-14426438" width="30px">
 
-# Visitor Count:
-&nbsp; ![Visitor Count](https://profile-counter.glitch.me/{Raghav888}/count.svg)
+# Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/{Raghav888}/count.svg)
+&nbsp; 
 
 <img align="right" alt="PC GIF" src="assets/coin.gif" width="190" />
