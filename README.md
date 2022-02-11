@@ -1,20 +1,34 @@
-<!--
-**Raghav888/Raghav888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Raghav Bang&nbsp;<img src="assets\Mario_Hello_Big.gif" width="30px">
 
-Here are some ideas to get you started:
+# Visitor Count: &nbsp; ![Visitor Count](https://profile-counter.glitch.me/{Raghav888}/count.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="PC GIF" src="assets/laptop.gif" width="190" />
 
-# Raghav Bang&nbsp;<img src="https://tenor.com/view/sybo-games-sybo-yutani-imessage-animated-stickers-gif-14426438" width="30px">
+### <img src="assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="assets/Earth.gif" width="24px">
 
-&nbsp; ![Visitor Count](https://profile-counter.glitch.me/{Raghav888}/count.svg)
+<p>
+  <em>
+    I am a <b>Software Developer</b> and a <b> Machine Learning / Deep Learning enthusiast,</b> who is <b>always </b>eager to <b>learn & improve</b> himself and wants to <b>grow and help others.</b> I belive in the idealogy <b> that everyone should have access to learn technology.</b>
+  </em>  
+</p>
 
-<img align="right" alt="PC GIF" src="https://tenor.com/view/man-technologist-people-joypixels-laptop-technician-gif-17478945" width="190" />
+<br>
+
+- 🔭 I’m currently working on my **laptop**.
+- 🌱 I’m currently learning **myself**.
+- 👯 I’m looking to collaborate on **projects that can impact whole world**
+- 🤔 I’m looking for help to solve **bugs🧔**.
+- 💬 Ask me about **anyhthing**.
+- 📫 How to reach me: [Portfolio](https://www.raghavbang.com/) || [LinkedIn](https://www.linkedin.com/in/raghavbang/)
+- 😄 Pronouns: **He/Him**.
+- ⚡ Fun fact: I have **promised JavaScript to love her forever😴**.
+
+<br>
+
+![Raghav's github stats](https://github-readme-stats.vercel.app/api?username=Raghav888&show_icons=true&hide_border=true)
+
+<br>
+
+<img src="assets/coding.gif" alt="Mario Game" width="980">
+
+<br>
