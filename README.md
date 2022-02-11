@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Raghav888/Raghav888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Raghav Bang&nbsp;<img src="https://tenor.com/view/sybo-games-sybo-yutani-imessage-animated-stickers-gif-14426438" width="30px">
+
+&nbsp; ![Visitor Count](https://profile-counter.glitch.me/{Raghav888}/count.svg)
+
+<img align="right" alt="PC GIF" src="https://tenor.com/view/man-technologist-people-joypixels-laptop-technician-gif-17478945" width="190" />
