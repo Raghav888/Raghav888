@@ -8,7 +8,7 @@
 
 <p>
   <em>
-    I am a <b>Software Developer</b> and a <b> Machine Learning / Deep Learning enthusiast,</b> who is <b>always </b>eager to <b>learn & improve</b> himself and wants to <b>grow and help others.</b> I belive in the idealogy <b> that everyone should have access to learn technology.</b>
+    I am a <b>Software Developer</b> and a <b> Machine Learning / Deep Learning enthusiast,</b> who is <b>always </b>eager to <b>learn & improve</b> himself and wants to <b>grow and help others.</b> I believe in the idealogy <b> that everyone should have access to learn technology.</b>
   </em>  
 </p>
 
