@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **myself**.
 - 👯 I’m looking to collaborate on **projects that can impact whole world**
 - 🤔 I’m looking for help to solve **bugs🧔**.
-- 💬 Ask me about **anyhthing**.
+- 💬 Ask me about **anything**.
 - 📫 How to reach me: [Portfolio](https://www.raghavbang.com/) || [LinkedIn](https://www.linkedin.com/in/raghavbang/)
 - 😄 Pronouns: **He/Him**.
 - ⚡ Fun fact: I have **promised JavaScript to love her forever😴**.
