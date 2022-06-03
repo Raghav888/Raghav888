@@ -1,4 +1,4 @@
-# Raghav Bang&nbsp;<img src="assets\Mario_Hello_Big.gif" width="30px">
+# Raghav Bang&nbsp;
 
 # Visitor Count: &nbsp; ![Visitor Count](https://profile-counter.glitch.me/{Raghav888}/count.svg)
 
