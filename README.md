@@ -4,7 +4,7 @@
 
 <img align="right" alt="PC GIF" src="assets/laptop.gif" width="190" />
 
-### <img src="assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="assets/Earth.gif" width="24px">
+### *Hello world!** &nbsp;
 
 <p>
   <em>
