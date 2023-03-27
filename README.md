@@ -23,11 +23,6 @@
 - 😄 Pronouns: **He/Him**.
 - ⚡ Fun fact: I have **promised JavaScript to love her forever😴**.
 
-<br>
-
-![Raghav's github stats](https://github-readme-stats.vercel.app/api?username=Raghav888&show_icons=true&hide_border=true)
-
-<br>
 
 <img src="assets/coding.gif" alt="Mario Game" width="980">
 
